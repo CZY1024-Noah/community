@@ -1,4 +1,4 @@
-package com.life.community.community.controller;
+package com.life.bluecotton.community.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

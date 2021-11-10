@@ -1,4 +1,4 @@
-package com.life.community.community;
+package com.life.bluecotton.community;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

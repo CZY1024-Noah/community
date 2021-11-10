@@ -1,4 +1,4 @@
-package com.life.community.community;
+package com.life.bluecotton.community;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
