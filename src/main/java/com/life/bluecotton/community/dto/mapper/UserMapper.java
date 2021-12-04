@@ -1,4 +1,4 @@
-package com.life.bluecotton.community.mapper;
+package com.life.bluecotton.community.dto.mapper;
 
 import com.life.bluecotton.community.model.User;
 import org.apache.ibatis.annotations.Insert;

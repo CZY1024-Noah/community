@@ -2,7 +2,7 @@ package com.life.bluecotton.community.controller;
 
 import com.life.bluecotton.community.dto.AccessTokenDTO;
 import com.life.bluecotton.community.dto.GithubUser;
-import com.life.bluecotton.community.mapper.UserMapper;
+import com.life.bluecotton.community.dto.mapper.UserMapper;
 import com.life.bluecotton.community.model.User;
 import com.life.bluecotton.community.provider.GithubProvider;
 import org.springframework.beans.factory.annotation.Autowired;

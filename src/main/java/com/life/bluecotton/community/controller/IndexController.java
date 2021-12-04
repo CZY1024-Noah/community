@@ -1,6 +1,6 @@
 package com.life.bluecotton.community.controller;
 
-import com.life.bluecotton.community.mapper.UserMapper;
+import com.life.bluecotton.community.dto.mapper.UserMapper;
 import com.life.bluecotton.community.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
